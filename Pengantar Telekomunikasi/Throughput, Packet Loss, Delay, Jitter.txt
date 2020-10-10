@@ -1,0 +1,19 @@
+NAMA	: AKBAR KRISHNAWAN
+NIM	: 09011282025055
+
+Wireshark
+Pengantar Telekomunikasi SK 1 A
+
+Runtime 	= 604.855 second
+
+Throughput 	= 45941424 / 604.855 = 75,95444197369618
+		  75,95444197369618 x 8 = 607,6355357895694 = 670k
+
+Delay (Latency)	= 8,841132
+Rata-rata	= 0,000321659
+
+Jitter		= 13,254317
+Rata-rata	= 0,000482221
+
+Packet Loss	= ((40488 - 31) x 100) / 40488 = 99,92343410393203
+		  100 - 99,92343410393203 = 0,07656589606797 = 0.1%
